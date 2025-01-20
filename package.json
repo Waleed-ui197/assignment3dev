@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Waleed-ui197/assignment3dev#readme",
   "devDependencies": {
     "htmlhint": "^1.1.4",
-    "stylelint": "^16.13.2"
+    "stylelint": "^16.13.2",
+    "stylelint-config-standard": "^37.0.0"
   }
 }
